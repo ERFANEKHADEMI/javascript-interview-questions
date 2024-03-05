@@ -1,6 +1,6 @@
 # JavaScript Interview Questions & Answers
 
-> Click :star:if you like the project and follow [@SudheerJonna](https://twitter.com/SudheerJonna) for more updates. Coding questions available [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/sudheerj/JavaScript-Interview-Questions/actions).
+> Click :star:if you like the project and follow [@danieleverest](https://www.facebook.com/profile.php?id=61556352754672) for more updates. Coding questions available [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/danieleverest/JavaScript-Interview-Questions/actions).
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-**Note:** Please check [DataStructures and Algorithms](https://github.com/sudheerj/datastructures-algorithms) for DSA related questions or problems.
+**Note:** Please check [DataStructures and Algorithms](https://github.com/danieleverest/datastructures-algorithms) for DSA related questions or problems.
 
 ### Table of Contents
 
